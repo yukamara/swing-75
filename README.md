@@ -1,1 +1,3 @@
 # swing-75
+
+My name is Yusufu U Kamara, I am currently a Professor of Economics ar Clark College in Vancouver, WA. I have been at Clark College for five years. I earned a PhD in Economics form the University of Kansas in May 2014, and I taught for a while at Neosho County Community College, Baker University, and Avila University before moving to Vancouver. I am married with two beautiful kids, a boy and a girl aged 13 and 11 respectively. I am taking this course towards achieving my longstanding goal of becoming a Data Scientist. With my background in math and statistics, I am sure that providess a solid foundation for me. However, I have never done any coding, and I am a bit nervous, but I cannot wait to get started.
